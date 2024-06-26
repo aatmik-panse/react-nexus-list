@@ -3,7 +3,7 @@ export default function PersonCard({ name, role, image }) {
     <div>
       <div className="text-center text-gray-500 dark:text-gray-400">
         <img
-          className="mx-auto mb-4 w-36 h-36 rounded-full shadow-lg dark:ring-2 dark:ring-gray-800 dark:ring-offset-2 dark:ring-offset-gray-900"
+          className="mx-auto mb-4 w-36 h-36 rounded-full shadow-[1px_5px_15px_-5px_#218d95]"
           src={image}
           alt="Avatar"
         />
